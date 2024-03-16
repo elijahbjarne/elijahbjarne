@@ -1,16 +1,16 @@
 ### Для начала создать виртуальное окружение в питоне: 
-''' 
-python -m venv <название_окружения> 
-'''
+
+    python -m venv <название_окружения> 
+
 ### Активируем его:
-'''
-<название_окружения>\Scripts\activate (deactivate - для деактивации) 
-'''
+
+    <название_окружения>\Scripts\activate (deactivate - для деактивации) 
+
 ### Создаем стартовые файлы для Django проекта: 
-'''
-django-admin startproject <название_проекта> 
-'''
+
+    django-admin startproject <название_проекта> 
+
 ### Переходим в папку с проектом и запускаем сервер:
-'''
-python manage.py runserver 
-'''
+
+    python manage.py runserver 
+
