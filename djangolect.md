@@ -14,3 +14,8 @@
 
     python manage.py runserver 
 
+### Для запуска миграций запустим команду 
+    python manage.py migrate 
+
+### Создаем пользователя админ: 
+    python manage.py createsuperuser
